@@ -1,0 +1,24 @@
+body {
+  background-color: #f8c499;
+  margin: 0cm 0cm 7cm 0cm;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+
+h4 {
+  color: rgba(47, 0, 255, 0.836);
+}
+
+p {
+  color: black;
+}
+
+h3 {
+  color: #e91313;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/*# sourceMappingURL=superMaquillaje.css.map */

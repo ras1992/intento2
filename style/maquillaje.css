@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(245, 216, 187);
+    margin:1cm 2cm 1cm 3cm;
+
+ }
+ 
+ h1 {
+    color: maroon;
+    margin-left: 40px;
+ }
+  
+
+ h4 {
+    color: rgba(47, 0, 255, 0.836);
+  }
+  
+ p {
+    color: rgb(0, 0, 0);
+  }
+  
+  h3 {
+    color: #e91313;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .fuente{ 
+     font-style: normal;
+     color: rgb(230, 54, 54);
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+   .ras{background-color: dimgray;
+   color: forestgreen;}
